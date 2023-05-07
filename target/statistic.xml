@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<statistics>
+    <statistic>
+        <paymentCar>0.0</paymentCar>
+        <paymentMotorbike>0</paymentMotorbike>
+        <paymentVehicle>0</paymentVehicle>
+        <sumCar>7</sumCar>
+        <sumMotorbike>8</sumMotorbike>
+        <sumVehicle>15</sumVehicle>
+    </statistic>
+</statistics>

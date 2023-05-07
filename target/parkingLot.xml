@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<parkingLots>
+    <parkingLots>
+        <parkingLotId>1</parkingLotId>
+        <name>Bai 1</name>
+        <address>Ha Noi</address>
+        <capacity>100</capacity>
+        <currentOccupancy>1</currentOccupancy>
+    </parkingLots>
+    <parkingLots>
+        <parkingLotId>2</parkingLotId>
+        <name>Bai 2</name>
+        <address>Ha Nam</address>
+        <capacity>200</capacity>
+        <currentOccupancy>1</currentOccupancy>
+    </parkingLots>
+    <parkingLots>
+        <parkingLotId>3</parkingLotId>
+        <name>Bai 3</name>
+        <address>Thai Binh</address>
+        <capacity>300</capacity>
+        <currentOccupancy>1</currentOccupancy>
+    </parkingLots>
+    <parkingLots>
+        <parkingLotId>4</parkingLotId>
+        <name>Bai phia Bac</name>
+        <address>Ha Giang</address>
+        <capacity>150</capacity>
+        <currentOccupancy>1</currentOccupancy>
+    </parkingLots>
+    <parkingLots>
+        <parkingLotId>5</parkingLotId>
+        <name>Bai phia Nam</name>
+        <address>Ca Mau</address>
+        <capacity>250</capacity>
+        <currentOccupancy>1</currentOccupancy>
+    </parkingLots>
+</parkingLots>

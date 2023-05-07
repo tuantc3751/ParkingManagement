@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehicles>
+    <vehicle>
+        <ticketId>1</ticketId>
+        <parkingLot>Bai 1</parkingLot>
+        <licensePlate>29L5</licensePlate>
+        <type>Xe máy</type>
+        <brand>Honda</brand>
+        <model>Wave</model>
+        <enterTime>2023-04-02T23:00:07.811+07:00</enterTime>
+        <fee>0.0</fee>
+    </vehicle>
+    <vehicle>
+        <ticketId>2</ticketId>
+        <parkingLot>Bai 2</parkingLot>
+        <licensePlate>30L5</licensePlate>
+        <type>Ô tô</type>
+        <brand>Mer</brand>
+        <model>G63</model>
+        <enterTime>2023-04-11T22:00:07+07:00</enterTime>
+        <fee>0.0</fee>
+    </vehicle>
+    <vehicle>
+        <ticketId>3</ticketId>
+        <parkingLot>Bai 3</parkingLot>
+        <licensePlate>12L5</licensePlate>
+        <type>Ô tô</type>
+        <brand>Mer</brand>
+        <model>Mayback</model>
+        <enterTime>2023-03-01T19:00:07+07:00</enterTime>
+        <fee>0.0</fee>
+    </vehicle>
+    <vehicle>
+        <ticketId>4</ticketId>
+        <parkingLot>Bai phia Bac</parkingLot>
+        <licensePlate>11L5</licensePlate>
+        <type>Xe máy</type>
+        <brand>Yamaha</brand>
+        <model>Sirius</model>
+        <enterTime>2023-02-03T17:00:07+07:00</enterTime>
+        <fee>0.0</fee>
+    </vehicle>
+    <vehicle>
+        <ticketId>5</ticketId>
+        <parkingLot>Bai phia Nam</parkingLot>
+        <licensePlate>23K1</licensePlate>
+        <type>Xe máy</type>
+        <brand>Honda</brand>
+        <model>Winner</model>
+        <enterTime>2023-05-01T17:55:37.108+07:00</enterTime>
+        <fee>0.0</fee>
+    </vehicle>
+</vehicles>

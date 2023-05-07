@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <car>
+        <carId>1</carId>
+        <licensePlate>30h</licensePlate>
+        <brand>Honda</brand>
+        <model>Wave</model>
+        <enterTime>2023-04-25T00:00:00+07:00</enterTime>
+        <fee>0.0</fee>
+    </car>
+</students>
